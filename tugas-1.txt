@@ -1,0 +1,14 @@
+1. OSI memiliki kepanjangan dari ?
+   Open System Interconnection
+
+2. Bilangan 11011001 merupakan contoh bentuk dari bilangan ?
+   Binary
+
+3. Bentuk desimal dari 11011001 adalah ?
+   217
+
+4. Menjelaskan spesifikasi mekanis, kabel dan fungsionalitas guna menangani data jaringan merupakan proses pada layer ?
+   1
+
+5. Bilangan 3f dan 8a merupakan contoh bentuk dari bilangan ?
+   Hexadecimal
