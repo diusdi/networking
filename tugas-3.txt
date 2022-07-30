@@ -1,0 +1,15 @@
+1. Unicast adalah ?
+   Pengiriman data "one-to-one", data dari 1 pengirim langsung menuju ke 1 penerima.
+
+2. Multicast adalah ?
+   Pengiriman data "one-to-several", data dikirim dari 1 pengirim menuju beberapa penerima
+   (tidak semua penerima, namun hanya yang tergabung dalam satu grup).
+
+3. White-orange, Orange, White-green, Blue, White-blue, Green, White-brown, Brown merupakan tipe penyusunan pin kabel RJ-45 berjenis ?
+   Kabel RJ-45 Pinout T-568B
+
+4. Nama/jenis kabel berikut adalah:
+   RJ-11
+
+5. Nama/jenis kabel berikut adalah:
+   RP-TNC
